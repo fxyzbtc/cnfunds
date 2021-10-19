@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cnetfs"
+version = "0.1.0"
+description = "抓所有基金信息"
+authors = ["Your Name <you@example.com>"]
+license = "GPL2.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+requests = "^2.26.0"
+tqdm = "^4.62.3"
+akshare = "^1.1.71"
+tenacity = "latest"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
