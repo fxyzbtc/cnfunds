@@ -1,4 +1,4 @@
-# CNFUNDS
+# CNFUNDS数据
 
 1. 和指数关联的ETF基金、公募基金（含增强类基金）
 1. 非指数的主动基金
@@ -6,6 +6,9 @@
 1. 混合基金
 1. QDII基金
 1. 货币基金
+
+## Demo站点
+https://huggingface.co/spaces/foobar999/findfund
 
 ## 公众号【结丹记事本儿】
 一个小散在持续分享资产配置心得，毛估估的奔向财富自由，欢迎围观参与。
