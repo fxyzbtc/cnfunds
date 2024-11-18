@@ -132,4 +132,4 @@ def pull_all(pages=response.json()['page'] + 1):
 
 if __name__ == '__main__':
     funds = pull_all()
-    funds.to_csv('全基金信息.csv', index=False)
+    funds.to_csv('all_cn_funds_book.csv', index=False)
