@@ -1,5 +1,4 @@
 requests
 tqdm
-akshare
 tenacity
-pandaspyt
+pandas
